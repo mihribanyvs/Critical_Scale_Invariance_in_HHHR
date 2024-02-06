@@ -1,8 +1,8 @@
-# Critical_Scale_Invariance_in_HHHR\n
-Repository for the group project of LCP_Y6\n
+# Critical_Scale_Invariance_in_HHHR<br />
+Repository for the group project of LCP_Y6<br />
 
-Introduction\n
--[]From ECG to RR intervals\n
--[]Our data and quick summary\n
+Introduction<br />
+- [ ]From ECG to RR intervals<br />
+- [ ]Our data and quick summary<br />
 
 Cleaning data
