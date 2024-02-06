@@ -2,7 +2,7 @@
 Repository for the group project of LCP_Y6<br />
 
 Introduction<br />
-- [ ]From ECG to RR intervals<br />
-- [ ]Our data and quick summary<br />
+- [ ] From ECG to RR intervals<br />
+- [ ] Our data and quick summary<br />
 
 Cleaning data
