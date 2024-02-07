@@ -6,3 +6,5 @@ Introduction<br />
 - [ ] Our data and quick summary<br />
 
 Cleaning data
+- [ ] Different 2s intervals<br />
+- [ ] Different batches of data<br />
